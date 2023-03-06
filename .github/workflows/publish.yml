@@ -18,5 +18,5 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 3bbb30324aa1dc7d2d9515e86677cb05
-          projectName: me-portfolio
+          projectName: Mechanical-Engineering-Portfolio
           directory: ../src
