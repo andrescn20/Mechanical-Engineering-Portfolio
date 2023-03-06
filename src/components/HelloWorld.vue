@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      YES HELLO YESSSSSS<br />
+      YES HELLO YESSSSSS but with the actions ready lol <br />
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
         >vue-cli documentation</a
